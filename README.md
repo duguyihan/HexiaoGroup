@@ -46,3 +46,7 @@ Please replace the demo images with your own.
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
   - https://unsplash.com/photos/WNoLnJo7tS8
+  - 
+
+1. Please study the basic concepts about Github by watching the videos in https://www.bilibili.com/video/BV1st411r7Sj/?vd_source=f90de7e33d75749e6ec606cef2b03aca.
+2. 
