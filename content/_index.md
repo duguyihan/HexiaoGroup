@@ -14,9 +14,8 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        
-    This group is going to study modular steel structures and structural progressive collapse.
+
+       This group is going to study modular steel structures and structural progressive collapse.
   
   - block: collection
     content:
