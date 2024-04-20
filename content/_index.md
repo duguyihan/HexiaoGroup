@@ -16,7 +16,7 @@ sections:
         <br>
         
         
-     #本课题组致力于关注建筑结构的安全。主要有以下两个方向:**结构抗连续倒塌**。面对现有结构年限久远，容易发生倒塌的情况，成体系研究结构防连续倒塌的设计方法，包括设计性能目标的确定，寻找框架结构薄弱构件，采用非迭代的方法直接设计，以及基于可靠度和风险的设计方法等。
+    This group is going to study modular steel structures and structural progressive collapse.
   
   - block: collection
     content:
